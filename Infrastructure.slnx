@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Infrastructure.Database.Core/Infrastructure.Database.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Infrastructure.Database.Core.Tests/Infrastructure.Database.Core.Tests.csproj" />
+  </Folder>
+</Solution>
